@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P10KnowYourFacts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="frag1">There is a city called Rome on every continent.</string>
+    <string name="frag2">Human thigh bones are stronger than concrete.You can\'t kill yourself by holding your breath.</string>
+    <string name="frag3">"Almost" is the longest word in the English language with all the letters in alphabetical order.</string>
+</resources>
